@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZhenghaoFei interested in robotics especially robots in agricultural
+- 👋 Hi, I’m @ZhenghaoFei
 
 <!---
 ZhenghaoFei/ZhenghaoFei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
